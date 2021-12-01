@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatRClub", "MediatRClub\MediatRClub.csproj", "{20A0E9E6-5F4F-46D0-A835-379891A8CBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRClub.Tests", "MediatRClub.Tests\MediatRClub.Tests.csproj", "{F14E465E-6C27-4C43-A639-A32A131D9ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A0E9E6-5F4F-46D0-A835-379891A8CBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A0E9E6-5F4F-46D0-A835-379891A8CBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A0E9E6-5F4F-46D0-A835-379891A8CBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A0E9E6-5F4F-46D0-A835-379891A8CBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14E465E-6C27-4C43-A639-A32A131D9ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14E465E-6C27-4C43-A639-A32A131D9ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14E465E-6C27-4C43-A639-A32A131D9ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14E465E-6C27-4C43-A639-A32A131D9ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F55370F-BB10-427D-A822-20243C12519F}
+	EndGlobalSection
+EndGlobal
